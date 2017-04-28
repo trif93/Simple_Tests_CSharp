@@ -1,0 +1,8 @@
+C:\Users\Барсик\Documents\SharpDevelop Projects\Tests\Tests\bin\Debug\Tests.exe.config
+C:\Users\Барсик\Documents\SharpDevelop Projects\Tests\Tests\bin\Debug\Tests.exe
+C:\Users\Барсик\Documents\SharpDevelop Projects\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\Барсик\Documents\SharpDevelop Projects\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Барсик\Documents\SharpDevelop Projects\Tests\Tests\obj\Debug\Tests.MainForm.resources
+C:\Users\Барсик\Documents\SharpDevelop Projects\Tests\Tests\obj\Debug\Tests.csproj.GenerateResource.Cache
+C:\Users\Барсик\Documents\SharpDevelop Projects\Tests\Tests\obj\Debug\Tests.exe
+C:\Users\Барсик\Documents\SharpDevelop Projects\Tests\Tests\obj\Debug\Tests.pdb
